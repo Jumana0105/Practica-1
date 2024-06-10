@@ -1,0 +1,21 @@
+#contenedorTitulo {
+    text-align: center;
+    font-size: 30px;
+    color: #468189;
+}
+
+p{
+    text-align: center;
+    font-size: 20px;
+    font-style: normal;
+}
+
+#Sub {
+    font-size: 26px;
+    
+}
+
+#contenido {
+    background-color: #f4e9cd;
+    color: #031926;
+}
